@@ -1,0 +1,344 @@
+> PrintTable(weapons.Get("weapon_ak472"))...
+{
+  Weight = 5
+  Base = weapon_cs_base2
+  SetNPCMaxRest = function: 0x35c85ac8
+  PrintName = Scripted Weapon
+  Holster = function: 0x336eb060
+  SetDeploySpeed = function: 0x35c80e90
+  CanSecondaryAttack = function: 0x35c7a930
+  EquipAmmo = function: 0x35c80f20
+  OnRemove = function: 0x29311978
+  Contact = 
+  DarkRPBased = true
+  Reload = function: 0x29c39ba8
+  SetupWeaponHoldTypeForAI = function: 0x35c7aad0
+  NPCShoot_Secondary = function: 0x35c80f80
+  BaseClass:
+  {
+    Weight = 5
+    Base = weapon_base
+    SetNPCMaxRest = function: 0x35c85ac8
+    PrintName = Scripted Weapon
+    Holster = function: 0x336eb060
+    SetDeploySpeed = function: 0x35c80e90
+    CanSecondaryAttack = function: 0x35c7a930
+    EquipAmmo = function: 0x35c80f20
+    OnRemove = function: 0x29311978
+    Contact = 
+    DarkRPBased = true
+    Reload = function: 0x29c39ba8
+    SetupWeaponHoldTypeForAI = function: 0x35c7aad0
+    NPCShoot_Secondary = function: 0x35c80f80
+    BaseClass:
+    {
+      AutoSwitchFrom = true
+      WorldModel = models/weapons/w_357.mdl
+      SetNPCMinBurst = function: 0x35c85858
+      CanPrimaryAttack = function: 0x35c7a918
+      Spawnable = false
+      SetNPCMaxRest = function: 0x35c85ac8
+      PrintName = Scripted Weapon
+      AutoSwitchTo = true
+      Base = weapon_base
+      Instructions = 
+      GetNPCMaxBurst = function: 0x35c858a0
+      TakePrimaryAmmo = function: 0x35c7a8e8
+      AcceptInput = function: 0x35c80ed8
+      Holster = function: 0x35c86ac8
+      GetNPCMinBurst = function: 0x35c80fb0
+      Folder = weapons/weapon_base
+      TakeSecondaryAmmo = function: 0x35c7a900
+      CanSecondaryAttack = function: 0x35c7a930
+      OnDrop = function: 0x35c80f38
+      EquipAmmo = function: 0x35c80f20
+      SetNPCFireRate = function: 0x35c85968
+      SetupWeaponHoldTypeForAI = function: 0x35c7aad0
+      OwnerChanged = function: 0x35c80e48
+      PrimaryAttack = function: 0x35c81740
+      ClassName = weapon_base
+      Contact = 
+      Purpose = 
+      Think = function: 0x35c86ab0
+      SecondaryAttack = function: 0x35c85320
+      AdminOnly = false
+      SetWeaponHoldType = function: 0x35c80c18
+      Deploy = function: 0x35c84620
+      Reload = function: 0x35c86a98
+      Primary:
+      {
+        Automatic = false
+        DefaultClip = 32
+        Ammo = Pistol
+        ClipSize = 8
+      }
+      Ammo2 = function: 0x35c80e78
+      ActivityTranslateAI:
+      {
+        1 = 322
+        5 = 301
+        6 = 369
+        7 = 371
+        10 = 370
+        11 = 372
+        16 = 289
+        18 = 290
+        66 = 376
+        69 = 377
+        76 = 323
+        77 = 322
+        78 = 78
+        79 = 323
+        80 = 325
+        82 = 6
+        83 = 83
+        84 = 371
+        85 = 373
+        86 = 10
+        87 = 87
+        88 = 372
+        89 = 366
+        90 = 322
+        91 = 323
+        92 = 323
+        93 = 325
+        94 = 6
+        95 = 371
+        96 = 371
+        97 = 374
+        98 = 10
+        99 = 372
+        100 = 372
+        101 = 375
+        102 = 102
+        103 = 299
+        104 = 299
+        421 = 425
+        420 = 424
+        297 = 299
+        418 = 422
+        137 = 312
+        382 = 383
+        419 = 423
+      }
+      NPCShoot_Secondary = function: 0x35c80f80
+      Initialize = function: 0x35c808e0
+      Secondary:
+      {
+        Automatic = false
+        DefaultClip = 32
+        Ammo = Pistol
+        ClipSize = 8
+      }
+      OnRemove = function: 0x35c7a948
+      ShootBullet = function: 0x35c84650
+      Ammo1 = function: 0x35c80e60
+      KeyValue = function: 0x35c80ef0
+      ViewModel = models/weapons/v_pistol.mdl
+      Equip = function: 0x35c80f08
+      SetDeploySpeed = function: 0x35c80e90
+      Weight = 5
+      ShouldDropOnDie = function: 0x35c80f50
+      OnRestore = function: 0x35c80ec0
+      GetNPCMaxRest = function: 0x35c85a60
+      ActivityTranslate:
+      {
+        991 = 1790
+        1025 = 1793
+        1028 = 1793
+        999 = 1791
+        997 = 1788
+        990 = 1787
+        1001 = 1794
+        1006 = 1796
+        996 = 1789
+        16 = 1795
+        1011 = 1792
+        1015 = 1792
+      }
+      SetNPCMinRest = function: 0x35c85a18
+      DoImpactEffect = function: 0x35c80ea8
+      NPCShoot_Primary = function: 0x35c80f98
+      ViewModelFlip = false
+      ShootEffects = function: 0x35c84638
+      ViewModelFOV = 62
+      SetNPCMaxBurst = function: 0x35c858e0
+      TranslateActivity = function: 0x35c80e30
+      GetNPCFireRate = function: 0x35c85928
+      GetCapabilities = function: 0x35c80f68
+      GetNPCMinRest = function: 0x35c859b0
+      Author = 
+    }
+    ShouldDropOnDie = function: 0x35c80f50
+    OnRestore = function: 0x337f3ac0
+    ActivityTranslate = table: 0x3cf00ad0
+    SetupDataTables = function: 0x295ab4e0
+    Deploy = function: 0x2d031bb8
+    GetIronsights = function: 0x30ee00e0
+    ShootEffects = function: 0x35c84638
+    SetIronsightsTime = function: 0x2522c2e0
+    AutoSwitchFrom = false
+    SetNPCMinBurst = function: 0x35c85858
+    CanPrimaryAttack = function: 0x35c7a918
+    Spawnable = false
+    GetViewModelPosition = function: 0x2cfd47b8
+    AutoSwitchTo = false
+    GetIronsightsTime = function: 0x336eade8
+    Instructions = 
+    SetIronsights = function: 0x299f9ef0
+    TakePrimaryAmmo = function: 0x35c7a8e8
+    AcceptInput = function: 0x35c80ed8
+    Equip = function: 0x30a2c450
+    UseHands = true
+    Folder = weapons/weapon_cs_base2
+    TakeSecondaryAmmo = function: 0x35c7a900
+    GetIronsightsPredicted = function: 0x2cd16100
+    Think = function: 0x30a2ded8
+    OwnerChanged = function: 0x2cea1ac0
+    PrimaryAttack = function: 0x2cdf0348
+    ClassName = weapon_cs_base2
+    CalcViewModel = function: 0x2ccc84d0
+    SetNPCFireRate = function: 0x35c85968
+    GetCapabilities = function: 0x35c80f68
+    HoldType = normal
+    GetNPCFireRate = function: 0x35c85928
+    TranslateActivity = function: 0x35c80e30
+    Primary:
+    {
+      Ammo = none
+      Cone = 0.02
+      Sound = Weapon_AK47.Single
+      BaseClass = table: 0x3cf00658
+      Delay = 0.15
+      ClipSize = -1
+      Recoil = 1.5
+      Automatic = false
+      Damage = 40
+      DefaultClip = -1
+      NumShots = 1
+    }
+    Ammo2 = function: 0x35c80e78
+    ActivityTranslateAI = table: 0x3cf006e8
+    SetWeaponHoldType = function: 0x35c80c18
+    DrawWeaponSelection = function: 0x2ce64ad8
+    ViewModelFOV = 62
+    ViewModelFlip = false
+    ShootBullet = function: 0x35c84650
+    Ammo1 = function: 0x35c80e60
+    KeyValue = function: 0x35c80ef0
+    NPCShoot_Primary = function: 0x35c80f98
+    DoImpactEffect = function: 0x35c80ea8
+    SetNPCMinRest = function: 0x35c85a18
+    WorldModel = models/weapons/w_357.mdl
+    CSShootBullet = function: 0x30a28738
+    Initialize = function: 0x336f6648
+    GetNPCMaxRest = function: 0x35c85a60
+    ViewModel = models/weapons/v_pistol.mdl
+    Secondary:
+    {
+      Ammo = none
+      Automatic = false
+      BaseClass = table: 0x3ddbd168
+      DefaultClip = -1
+      ClipSize = -1
+    }
+    SetIronsightsPredicted = function: 0x2cc77b20
+    GetNPCMaxBurst = function: 0x35c858a0
+    Author = DarkRP Developers
+    MultiMode = false
+    SecondaryAttack = function: 0x2ce98de0
+    SetNPCMaxBurst = function: 0x35c858e0
+    AdminOnly = false
+    Purpose = 
+    OnDrop = function: 0x294c9140
+    GetNPCMinRest = function: 0x35c859b0
+    GetNPCMinBurst = function: 0x35c80fb0
+  }
+  ShouldDropOnDie = function: 0x35c80f50
+  OnRestore = function: 0x337f3ac0
+  ActivityTranslate = table: 0x3cf00ad0
+  SetupDataTables = function: 0x295ab4e0
+  Deploy = function: 0x2d031bb8
+  ViewModelFlip = false
+  ShootEffects = function: 0x35c84638
+  GetCapabilities = function: 0x35c80f68
+  AutoSwitchFrom = false
+  SetNPCMinBurst = function: 0x35c85858
+  CanPrimaryAttack = function: 0x35c7a918
+  Spawnable = true
+  GetViewModelPosition = function: 0x2cfd47b8
+  AutoSwitchTo = false
+  GetIronsightsTime = function: 0x336eade8
+  Instructions = 
+  SetIronsights = function: 0x299f9ef0
+  TakePrimaryAmmo = function: 0x35c7a8e8
+  AcceptInput = function: 0x35c80ed8
+  Equip = function: 0x30a2c450
+  UseHands = true
+  Folder = weapons/weapon_ak472
+  TakeSecondaryAmmo = function: 0x35c7a900
+  GetIronsightsPredicted = function: 0x2cd16100
+  SetNPCFireRate = function: 0x35c85968
+  GetNPCMinBurst = function: 0x35c80fb0
+  OwnerChanged = function: 0x2cea1ac0
+  PrimaryAttack = function: 0x2cdf0348
+  ClassName = weapon_ak472
+  CalcViewModel = function: 0x2ccc84d0
+  TranslateActivity = function: 0x35c80e30
+  GetNPCFireRate = function: 0x35c85928
+  Purpose = 
+  GetIronsights = function: 0x30ee00e0
+  HoldType = ar2
+  SecondaryAttack = function: 0x2ce98de0
+  Author = DarkRP Developers
+  Primary:
+  {
+    Ammo = smg1
+    Cone = 0.002
+    Sound = Weapon_AK47.Single
+    BaseClass = table: 0x3cf00fc0
+    Delay = 0.08
+    ClipSize = 30
+    Recoil = 1.5
+    Automatic = true
+    Damage = 40
+    DefaultClip = 30
+    NumShots = 1
+  }
+  Ammo2 = function: 0x35c80e78
+  ActivityTranslateAI = table: 0x3cf006e8
+  GetNPCMaxBurst = function: 0x35c858a0
+  DrawWeaponSelection = function: 0x2ce64ad8
+  SetIronsightsPredicted = function: 0x2cc77b20
+  GetNPCMaxRest = function: 0x35c85a60
+  ShootBullet = function: 0x35c84650
+  Ammo1 = function: 0x35c80e60
+  KeyValue = function: 0x35c80ef0
+  Initialize = function: 0x336f6648
+  CSShootBullet = function: 0x30a28738
+  SetNPCMinRest = function: 0x35c85a18
+  DoImpactEffect = function: 0x35c80ea8
+  NPCShoot_Primary = function: 0x35c80f98
+  WorldModel = models/weapons/w_rif_ak47.mdl
+  IronSightsAng = 2.600000 0.020000 0.000000
+  ViewModel = models/weapons/cstrike/c_rif_ak47.mdl
+  SetIronsightsTime = function: 0x2522c2e0
+  Secondary:
+  {
+    Ammo = none
+    Automatic = false
+    BaseClass = table: 0x3cf00fe8
+    DefaultClip = -1
+    ClipSize = -1
+  }
+  MultiMode = true
+  AdminOnly = false
+  Category = DarkRP (Weapon)
+  ViewModelFOV = 62
+  SetNPCMaxBurst = function: 0x35c858e0
+  IronSightsPos = -6.600000 -15.000000 2.600000
+  Think = function: 0x30a2ded8
+  OnDrop = function: 0x294c9140
+  GetNPCMinRest = function: 0x35c859b0
+  SetWeaponHoldType = function: 0x35c80c18
+}
