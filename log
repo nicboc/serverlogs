@@ -1,0 +1,213 @@
+L 12/28/2019 - 15:12:32: Log file started (file "logs\L1228034.log") (game "D:\TCAFiles\Users\nicolasb\35630\garrysmod") (version "7671")
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_noclip" "0"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxprops" "150"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxragdolls" "5"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxnpcs" "50"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxballoons" "0"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxeffects" "50"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxdynamite" "0"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxlamps" "20"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxthrusters" "0"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxwheels" "0"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxhoverballs" "0"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxvehicles" "50"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxbuttons" "20"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxsents" "20"
+L 12/28/2019 - 15:12:32: server_cvar: "sbox_maxemitters" "5"
+L 12/28/2019 - 15:12:33: server_cvar: "mp_flashlight" "1"
+L 12/28/2019 - 15:12:33: Loading map "rp_downtown_tits_v2"
+L 12/28/2019 - 15:12:33: server cvars start
+L 12/28/2019 - 15:12:33: "ttt_namechange_bantime" = "10"
+L 12/28/2019 - 15:12:33: "ttt_namechange_kick" = "1"
+L 12/28/2019 - 15:12:33: "ttt_ragdoll_pinning_innocents" = "0"
+L 12/28/2019 - 15:12:33: "ttt_ragdoll_pinning" = "1"
+L 12/28/2019 - 15:12:33: "ttt_teleport_telefrags" = "0"
+L 12/28/2019 - 15:12:33: "ttt_no_nade_throw_during_prep" = "0"
+L 12/28/2019 - 15:12:33: "ttt_allow_discomb_jump" = "0"
+L 12/28/2019 - 15:12:33: "ttt_detective_hats" = "0"
+L 12/28/2019 - 15:12:33: "ttt_detective_karma_min" = "600"
+L 12/28/2019 - 15:12:33: "ttt_detective_min_players" = "8"
+L 12/28/2019 - 15:12:33: "ttt_det_credits_starting" = "1"
+L 12/28/2019 - 15:12:33: "ttt_detective_pct" = "0.125000"
+L 12/28/2019 - 15:12:33: "ttt_detective_max" = "32"
+L 12/28/2019 - 15:12:33: "ttt_credits_starting" = "2"
+L 12/28/2019 - 15:12:33: "ttt_traitor_pct" = "0.250000"
+L 12/28/2019 - 15:12:33: "ttt_traitor_max" = "32"
+L 12/28/2019 - 15:12:33: "ttt_postround_dm" = "0"
+L 12/28/2019 - 15:12:33: "ttt_haste_minutes_per_death" = "0.500000"
+L 12/28/2019 - 15:12:33: "ttt_haste_starting_minutes" = "5"
+L 12/28/2019 - 15:12:33: "ttt_roundtime_minutes" = "10"
+L 12/28/2019 - 15:12:33: "ttt_round_limit" = "6"
+L 12/28/2019 - 15:12:33: "ttt_posttime_seconds" = "30"
+L 12/28/2019 - 15:12:33: "ttt_preptime_seconds" = "30"
+L 12/28/2019 - 15:12:33: "ttt_firstpreptime" = "60"
+L 12/28/2019 - 15:12:33: "ttt_time_limit_minutes" = "75"
+L 12/28/2019 - 15:12:33: "ttt_haste" = "1"
+L 12/28/2019 - 15:12:33: "ttt_debug_preventwin" = "0"
+L 12/28/2019 - 15:12:33: "sbox_persist" = ""
+L 12/28/2019 - 15:12:33: "sbox_bonemanip_misc" = "0"
+L 12/28/2019 - 15:12:33: "sbox_bonemanip_player" = "0"
+L 12/28/2019 - 15:12:33: "sbox_bonemanip_npc" = "1"
+L 12/28/2019 - 15:12:33: "sbox_noclip" = "0"
+L 12/28/2019 - 15:12:33: "sbox_maxemitters" = "5"
+L 12/28/2019 - 15:12:33: "sbox_maxbuttons" = "20"
+L 12/28/2019 - 15:12:33: "sbox_maxhoverballs" = "0"
+L 12/28/2019 - 15:12:33: "sbox_maxthrusters" = "0"
+L 12/28/2019 - 15:12:33: "sbox_maxwheels" = "0"
+L 12/28/2019 - 15:12:33: "sbox_maxlights" = "5"
+L 12/28/2019 - 15:12:33: "sbox_maxlamps" = "20"
+L 12/28/2019 - 15:12:33: "sbox_maxdynamite" = "0"
+L 12/28/2019 - 15:12:33: "sbox_maxsents" = "20"
+L 12/28/2019 - 15:12:33: "sbox_maxnpcs" = "50"
+L 12/28/2019 - 15:12:33: "sbox_maxcameras" = "10"
+L 12/28/2019 - 15:12:33: "sbox_maxballoons" = "0"
+L 12/28/2019 - 15:12:33: "sbox_maxeffects" = "50"
+L 12/28/2019 - 15:12:33: "sbox_maxvehicles" = "50"
+L 12/28/2019 - 15:12:33: "sbox_maxragdolls" = "5"
+L 12/28/2019 - 15:12:33: "sbox_maxprops" = "150"
+L 12/28/2019 - 15:12:33: "sbox_playershurtplayers" = "1"
+L 12/28/2019 - 15:12:33: "sbox_godmode" = "0"
+L 12/28/2019 - 15:12:33: "sbox_weapons" = "1"
+L 12/28/2019 - 15:12:33: "physgun_limited" = "0"
+L 12/28/2019 - 15:12:33: "sv_allowcslua" = "0"
+L 12/28/2019 - 15:12:33: "physgun_maxrange" = "4096"
+L 12/28/2019 - 15:12:33: "ai_disabled" = "0"
+L 12/28/2019 - 15:12:33: "ai_ignoreplayers" = "0"
+L 12/28/2019 - 15:12:33: "mp_teamplay" = "0"
+L 12/28/2019 - 15:12:33: "mp_falldamage" = "0"
+L 12/28/2019 - 15:12:33: "mp_weaponstay" = "0"
+L 12/28/2019 - 15:12:33: "mp_forcerespawn" = "1"
+L 12/28/2019 - 15:12:33: "mp_footsteps" = "1"
+L 12/28/2019 - 15:12:33: "mp_flashlight" = "1"
+L 12/28/2019 - 15:12:33: "mp_autocrosshair" = "1"
+L 12/28/2019 - 15:12:33: "decalfrequency" = "10"
+L 12/28/2019 - 15:12:33: "mp_teamlist" = "hgrunt;scientist"
+L 12/28/2019 - 15:12:33: "mp_allowNPCs" = "1"
+L 12/28/2019 - 15:12:33: "mp_friendlyfire" = "0"
+L 12/28/2019 - 15:12:33: "mp_fadetoblack" = "0"
+L 12/28/2019 - 15:12:33: "sv_gravity" = "600"
+L 12/28/2019 - 15:12:33: "sv_stopspeed" = "10"
+L 12/28/2019 - 15:12:33: "sv_noclipaccelerate" = "5"
+L 12/28/2019 - 15:12:33: "sv_noclipspeed" = "5"
+L 12/28/2019 - 15:12:33: "sv_specaccelerate" = "5"
+L 12/28/2019 - 15:12:33: "sv_specspeed" = "3"
+L 12/28/2019 - 15:12:33: "sv_specnoclip" = "1"
+L 12/28/2019 - 15:12:33: "sv_maxspeed" = "10000"
+L 12/28/2019 - 15:12:33: "sv_accelerate" = "10"
+L 12/28/2019 - 15:12:33: "sv_airaccelerate" = "10"
+L 12/28/2019 - 15:12:33: "sv_wateraccelerate" = "10"
+L 12/28/2019 - 15:12:33: "sv_waterfriction" = "1"
+L 12/28/2019 - 15:12:33: "sv_footsteps" = "1"
+L 12/28/2019 - 15:12:33: "sv_rollspeed" = "200"
+L 12/28/2019 - 15:12:33: "sv_rollangle" = "0"
+L 12/28/2019 - 15:12:33: "sv_friction" = "8"
+L 12/28/2019 - 15:12:33: "sv_bounce" = "0"
+L 12/28/2019 - 15:12:33: "sv_stepsize" = "18"
+L 12/28/2019 - 15:12:33: "r_VehicleViewDampen" = "0"
+L 12/28/2019 - 15:12:33: "r_JeepViewDampenFreq" = "7.0"
+L 12/28/2019 - 15:12:33: "r_JeepViewDampenDamp" = "1.0"
+L 12/28/2019 - 15:12:33: "r_JeepViewZHeight" = "10.0"
+L 12/28/2019 - 15:12:33: "r_AirboatViewDampenFreq" = "7.0"
+L 12/28/2019 - 15:12:33: "r_AirboatViewDampenDamp" = "1.0"
+L 12/28/2019 - 15:12:33: "r_AirboatViewZHeight" = "0.0"
+L 12/28/2019 - 15:12:33: "mp_timelimit" = "0"
+L 12/28/2019 - 15:12:33: "mp_fraglimit" = "0"
+L 12/28/2019 - 15:12:33: "nextlevel" = ""
+L 12/28/2019 - 15:12:33: "sv_maxusrcmdprocessticks" = "24"
+L 12/28/2019 - 15:12:33: "sv_alltalk" = "0"
+L 12/28/2019 - 15:12:33: "sv_hl2mp_weapon_respawn_time" = "20"
+L 12/28/2019 - 15:12:33: "sv_hl2mp_item_respawn_time" = "30"
+L 12/28/2019 - 15:12:33: "sv_report_client_settings" = "0"
+L 12/28/2019 - 15:12:33: "sv_cheats" = "0"
+L 12/28/2019 - 15:12:33: "sv_pausable" = "0"
+L 12/28/2019 - 15:12:33: "sv_contact" = ""
+L 12/28/2019 - 15:12:33: "sv_voiceenable" = "1"
+L 12/28/2019 - 15:12:33: "tv_enable" = "0"
+L 12/28/2019 - 15:12:33: "sv_steamgroup" = ""
+L 12/28/2019 - 15:12:33: "sv_password" = ""
+L 12/28/2019 - 15:12:33: "tv_relaypassword" = ""
+L 12/28/2019 - 15:12:33: "tv_password" = ""
+L 12/28/2019 - 15:12:33: "deathmatch" = "1"
+L 12/28/2019 - 15:12:33: "coop" = "0"
+L 12/28/2019 - 15:12:33: server cvars end
+L 12/28/2019 - 15:12:37: Started map "rp_downtown_tits_v2" (CRC "32476202f7bc5af4d721878bfef23d14")
+L 12/28/2019 - 15:12:52: Lua Error: [AddCSLuaFile] Couldn't find 'weapons/inventory/cl_init.lua' (<nowhere>)
+
+L 12/28/2019 - 15:12:54: server_cvar: "wire_expression2_find_rate" "0.050000"
+L 12/28/2019 - 15:12:54: server_cvar: "wire_holoemitter_interval" "0.300000"
+L 12/28/2019 - 15:12:56: Executing dedicated server config file server.cfg
+L 12/28/2019 - 15:12:59: Initializing Steam libraries for secure Internet server
+L 12/28/2019 - 15:12:59: No account token specified; logging into anonymous game server account.  (Use sv_setsteamaccount to login to a persistent account.)
+ 12/28/2019 - 15:12:59: server_cvar: "sv_allowcslua" "1"
+L 12/28/2019 - 15:12:59: server_cvar: "sv_airaccelerate" "1000"
+L 12/28/2019 - 15:13:02: Connection to Steam servers successful.
+L 12/28/2019 - 15:13:02:    Public IP is 103.62.51.8.
+L 12/28/2019 - 15:13:02: Assigned anonymous gameserver Steam ID [A-1:3570573315(13850)].
+L 12/28/2019 - 15:13:02: VAC secure mode is activated.
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_model_whitelist_bypass" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_blacklist_tool_admin_can" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_prop_auto_ban_size" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_blacklist_toolworld_admin_can" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_can_touch_world" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_disable_huds" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_disable_fancy_displays" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_apropkill_nopush_mode" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_disable_damage_world" "1"
+L 12/28/2019 - 15:13:02: server_cvar: "dpp_check_stuck" "0"
+L 12/28/2019 - 15:13:22: "Nicboc<2><STEAM_0:0:42438326><>" connected, address "45.121.210.201:27005"
+L 12/28/2019 - 15:13:23: "Nicboc<2><STEAM_0:0:42438326><>" STEAM USERID validated
+L 12/28/2019 - 15:13:55: [FAdmin] Nicboc (STEAM_0:0:42438326) is Authed
+L 12/28/2019 - 15:13:55: [FAdmin] Nicboc (STEAM_0:0:42438326) Spawned for the first time
+L 12/28/2019 - 15:13:55: [FAdmin] Nicboc (STEAM_0:0:42438326) Spawned
+L 12/28/2019 - 15:13:55: "Nicboc<2><STEAM_0:0:42438326><>" entered the game
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a inventory
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a keys
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weapon_physcannon
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a gmod_camera
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a gmod_tool
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a pocket
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weapon_physgun
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weapon_scarkeys
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weapon_fists
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weapon_skinchanger
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weapon_keypadchecker
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a door_ram
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a arrest_stick
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a unarrest_stick
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a stunstick
+L 12/28/2019 - 15:13:55: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weaponchecker
+L 12/28/2019 - 15:14:08: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a csgo_butterfly_fade
+L 12/28/2019 - 15:16:13: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/holster"
+
+L 12/28/2019 - 15:16:20: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/holster"
+
+L 12/28/2019 - 15:16:24: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/unholster"
+
+L 12/28/2019 - 15:16:47: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/invadmin"
+
+L 12/28/2019 - 15:17:53: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/equip"
+
+L 12/28/2019 - 15:18:26: [FAdmin] Nic (STEAM_0:0:42438326) Gave himself a weapon_ak472
+L 12/28/2019 - 15:18:26: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weapon_ak472
+L 12/28/2019 - 15:18:28: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/holster"
+
+L 12/28/2019 - 15:18:37: [FAdmin] Nic (STEAM_0:0:42438326) Gave himself a weapon_smg1
+L 12/28/2019 - 15:18:37: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a weapon_smg1
+L 12/28/2019 - 15:18:39: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/holster"
+
+L 12/28/2019 - 15:18:53: [FAdmin] Nic (STEAM_0:0:42438326) Gave himself a pro_lockpick
+L 12/28/2019 - 15:18:53: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a pro_lockpick
+L 12/28/2019 - 15:18:58: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/holster"
+
+L 12/28/2019 - 15:19:03: [FAdmin] Nic (STEAM_0:0:42438326) Gave himself a lockpick
+L 12/28/2019 - 15:19:03: [FAdmin] Nic (STEAM_0:0:42438326) Attempted to pick up a lockpick
+L 12/28/2019 - 15:19:05: "Nic<2><STEAM_0:0:42438326><Citizen>" say "/holster"
+
+L 12/28/2019 - 15:24:00: [ULX] (SILENT) Nic ran rcon command: sv_password l
+L 12/28/2019 - 15:24:00: server_cvar: "sv_password" "***PROTECTED***"
+L 12/28/2019 - 15:38:36: [FAdmin] Server succesfully shut down.
+L 12/28/2019 - 15:38:36: [FAdmin] prop_physics(models/props_c17/gaspipes002a.mdl) Got removed
+L 12/28/2019 - 15:38:36: [FAdmin] prop_physics(models/props_c17/gaspipes005a.mdl) Got removed
+L 12/28/2019 - 15:38:36: [FAdmin] prop_physics(models/props_c17/signpole001.mdl) Got removed
+L 12/28/2019 - 15:38:36: "Nicboc<2><STEAM_0:0:42438326><>" disconnected (reason "Server shutting down")
+L 12/28/2019 - 15:38:36: server_message: "quit"
